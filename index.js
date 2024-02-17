@@ -77,23 +77,21 @@ function writeToFile(filename, data) {
 }
 
 //Promt user to answer questions
-inquirer
-    .prompt(questions)
+inquirer.prompt(questions)
     .then(answers => {
         const { filename, data } = answers;
 
 writeToFile(filename, data);
-    })
+    });
 
 
 
 
 
 
-// function to initialize program
+// // function to initialize program
 function init() {
+    }
 
-}
-
-// function call to initialize program
+// // function call to initialize program
 init();
