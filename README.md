@@ -38,7 +38,8 @@
    * Node.js  
    * Inquirer npm  
    
-   Other sources for reference and learning used included:
+   Other sources for reference and learning used included:  
+   * Tutor session
    * MDN docs  
    * W3Schools  
    * Online tutorials for Javascript from FreeCodeCamp
