@@ -44,7 +44,7 @@
    * Online tutorials for Javascript from FreeCodeCamp
 
   ## Testing
-  N/A
+  The README file in this repository was generated using the application.
 
   ## Questions
   
