@@ -28,7 +28,7 @@
   ## Usage
   Once the application is initialised, the user is prompted to answer a series of questions used to populate and render the file.  
 
-  This is the link to the  video demonstrating the application being used: (https://youtu.be/aKgVdcwGm5w)
+  This is the link to the  video demonstrating the application being used: https://youtu.be/aKgVdcwGm5w
 
   ## License
   MIT License  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -40,6 +40,7 @@
    
    Other sources for reference and learning used included:  
    * Tutor session
+   * Licence badges codes were sourced from the public GitHub repository of: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
    * MDN docs  
    * W3Schools  
    * Online tutorials for Javascript from FreeCodeCamp
